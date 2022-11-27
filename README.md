@@ -1,6 +1,6 @@
-# Vue 3 + TypeScript + Vite + Unocss
+# Vue 3 + TypeScript + Vite + Unocss + Primevue
 
-> https://github.com/arnosolo/vite-vue3-ts-unocss
+> https://github.com/arnosolo/vite-vue3-ts-unocss-primevue
 
 - Check code on git commit using [husky](https://github.com/typicode/husky) and [lint-staged](https://github.com/okonet/lint-staged) 
 

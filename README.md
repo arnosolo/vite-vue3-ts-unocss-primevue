@@ -19,11 +19,23 @@
 
 ## How to use
 
+### Vite
+
+https://vitejs.dev
+
+### Vue
+
+https://vuejs.org/
+
+### Component lib
+
+https://www.primefaces.org/primevue/button
+
 ### css
 
 [unocss](https://uno.antfu.me/)
 
-### Icons
+### Icons (method 1)
 
 1. Open https://icones.js.org/collection/ic find icon you need
    
@@ -38,6 +50,10 @@
    ```html
    <span i-ic-baseline-add-circle text-gray-500></span>
    ```
+
+### Icons (method 2)
+
+PrimeIcons https://www.primefaces.org/primevue/icons
 
 ### Code format
 
